@@ -43,7 +43,7 @@ print(string2.isupper())
 print(string2.upper().isupper())
 print(len(string2))
 
-# you can specify the indexx of the string and get that string out 
+# you can specify the index of the string and get that string out 
 
 string3 = "Indian Cricket Team"
 
@@ -134,8 +134,6 @@ print(round(3.49))
 IMPORT 
 #IMPORT MATH FUNCTION 
 from math import *
-
-
 
 '''
 
